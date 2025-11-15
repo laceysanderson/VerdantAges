@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "create-the-server:dsms/generic",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "salt": 131541484,
+      "spacing": 15,
+      "separation": 5,
+      "type": "minecraft:random_spread"
+    }
+  }

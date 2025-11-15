@@ -1,0 +1,24 @@
+{
+  "name": "create-the-server:dsms/rooms_trap",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:dsms/turn_v1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "create-the-server:dsms/turn_v2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "create-the-server:dsms/rooms_save"
+}
