@@ -1,0 +1,13 @@
+name = "Crop Growth Modifier"
+filename = "crop_growth_modifier-1.20.1-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IQKhvsfJ/versions/nSKF5Ltj/crop_growth_modifier-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "4d94601c7f7e3162f7461bd6606e09b057187ec435912fa930c4f3ef35e752d5977ca4807975ea05645bdd1cd88de3c5da73b843838d9d48cb6bc5be5d6d0086"
+
+[update]
+[update.modrinth]
+mod-id = "IQKhvsfJ"
+version = "nSKF5Ltj"

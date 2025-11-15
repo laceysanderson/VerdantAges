@@ -1,0 +1,13 @@
+name = "JobsAddon"
+filename = "jobsaddon-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/whv2X0ei/versions/PDVZqlFW/jobsaddon-1.1.6.jar"
+hash-format = "sha512"
+hash = "4166df1f4d06a924f0cbad9eb927fa3cd093142d8fbd9d3342b5ee878d5b362d0200b2eaf41e140a44b2d7ecf48c60243c09b04ccc37bca543b1737d76ffbe9c"
+
+[update]
+[update.modrinth]
+mod-id = "whv2X0ei"
+version = "PDVZqlFW"

@@ -1,0 +1,13 @@
+name = "lootbeams"
+filename = "lootbeams-2.1.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DHxukCC2/versions/bPKH2TWp/lootbeams-2.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3c9ae284d83e050506ff94a39918ae42a1076d509ad4cfcccd1b746ad17307222671e59f3b8c485afc2899639e79337e1d5586e2147756cb7b5bd50c3696d479"
+
+[update]
+[update.modrinth]
+mod-id = "DHxukCC2"
+version = "bPKH2TWp"

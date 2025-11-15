@@ -1,0 +1,13 @@
+name = "RecipeRemover"
+filename = "reciperemover-1.0.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ydTNvAMp/versions/hgh6xgc8/reciperemover-1.0.11.jar"
+hash-format = "sha512"
+hash = "83b815166042b6784089bcb7264359bfb7c55dfa7126440afbc7614744ea606ec38ec32ef05a0c444580be784266c2afa5095adac1312811c5472e51bbac479e"
+
+[update]
+[update.modrinth]
+mod-id = "ydTNvAMp"
+version = "hgh6xgc8"

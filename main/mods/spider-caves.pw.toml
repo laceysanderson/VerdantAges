@@ -1,0 +1,13 @@
+name = "Spider Caves"
+filename = "spirder-caves-fabric-20.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dGtrU8l3/versions/De4lnlD5/spirder-caves-fabric-20.1.0.jar"
+hash-format = "sha512"
+hash = "8ade3ff50fe2278a3cdf86e6bb9ba9104740d91ac504180b7c7385aeb9be35ccc2cc6d474929eceed4c1d78f42a8a4b793de995797f69ae66892b2d20bd3767b"
+
+[update]
+[update.modrinth]
+mod-id = "dGtrU8l3"
+version = "De4lnlD5"

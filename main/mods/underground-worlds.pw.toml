@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "underground-jungle-fabric-20.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/j4AgEhdF/underground-jungle-fabric-20.1.2.jar"
+hash-format = "sha512"
+hash = "be72b409d790f4365f6d1ce743b95071b806d0da421ada1b4bebf9d2c5dd04c2df9e2e22b758c1f30408637325356876220e53b85eec0533e44a7d2f07527df8"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "j4AgEhdF"

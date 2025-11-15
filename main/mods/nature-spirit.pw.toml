@@ -1,0 +1,13 @@
+name = "Nature Spirit Origin"
+filename = "nature-spirit-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U5J0ypVn/versions/ORIAcMdb/nature-spirit-1.2.jar"
+hash-format = "sha512"
+hash = "8b8d50e22b299056c88e2c98abcfcf91787588534b873a953d9d330796affc823282e692108f100dfad33969d406d2a05e6b2b9480e065db42bc7792f992f8af"
+
+[update]
+[update.modrinth]
+mod-id = "U5J0ypVn"
+version = "ORIAcMdb"
