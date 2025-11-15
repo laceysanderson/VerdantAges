@@ -9,3 +9,6 @@
 
 # Eclude precommit hooks config
 .pre-commit-config.yaml
+
+# When working on a MAC, exclude DS_Store files
+.DS_Store

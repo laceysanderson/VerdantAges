@@ -1,6 +1,6 @@
 name = "Villages&Pillages"
 filename = "villagesandpillages-fabric-mc1.20.1-1.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/klXONLDA/versions/Ob1PnUNR/villagesandpillages-fabric-mc1.20.1-1.0.2.jar"

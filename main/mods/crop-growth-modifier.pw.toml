@@ -1,6 +1,6 @@
 name = "Crop Growth Modifier"
 filename = "crop_growth_modifier-1.20.1-1.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IQKhvsfJ/versions/nSKF5Ltj/crop_growth_modifier-1.20.1-1.1.1.jar"
