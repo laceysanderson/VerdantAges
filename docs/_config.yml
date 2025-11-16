@@ -28,6 +28,7 @@ repository: 'MossbornHedgehog/VerdantAges'
 # Theme Settings
 #
 minimal_mistakes_skin: 'dark' # 'air', 'aqua', 'contrast', 'dark', 'dirt', 'neon', 'mint', 'plum', 'sunrise'
+include: ["_pages"]
 
 #
 # Build settings
