@@ -52,11 +52,11 @@
 	has_wooded_drylands = true
 
 [region]
-	terra_solaris_frequency = 4
-	terra_ferax_frequency = 4
-	terra_flava_frequency = 4
-	terra_laeta_frequency = 4
-	terra_mater_frequency = 4
+	terra_solaris_frequency = 25
+	terra_ferax_frequency = 75
+	terra_flava_frequency = 10
+	terra_laeta_frequency = 10
+	terra_mater_frequency = 5
 
 [datapacks]
 	jungle_toggle = true
@@ -77,6 +77,6 @@
 	#Calcite clusters from coral feature
 	calcite_generator = true
 	#Toggle the Pillar Generation (turn off for lower end devices)
-	sugi_and_stratified_pillars = true
+	sugi_and_stratified_pillars = false
 	#Toggle the Deepslate Generator
 	deepslate_generator = true

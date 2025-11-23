@@ -90,7 +90,7 @@ hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
 
 [[files]]
 file = "config/natures_spirit.toml"
-hash = "ae63dc9a5dc8d5d0f3cb9f095f3c1aab4fd272874f8c289d25f0209af8194729"
+hash = "fa6f090d54ca86dddcc62883067f66b0e1a9027afc9d1515e82e7c5b719aa83b"
 
 [[files]]
 file = "config/seasonhud-client.toml"
@@ -106,7 +106,7 @@ hash = "39776bf29c63206c70e16c71cce5c51b2598a57cff52e7eff23685d3c4e332cd"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
+hash = "e256e767d3155053e1a40c7f49dfa73ec825ec4f73e7adad1d70253f29c5fef7"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -171,4 +171,9 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/world-preview.pw.toml"
+hash = "f8bf41ac19c20de158a9b8da3032a4aa06122b77748b04ca289d397f0062ab0a"
 metafile = true
